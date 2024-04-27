@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 057c713c5952b944b969bdaa263ea59f, type: 3}
+  m_Name: TKE
+  m_EditorClassIdentifier: 
+  displayName: Trick Dog Elite Performer
+  description: 
+  abbreviation: TKE
+  sport: {fileID: 11400000, guid: cc941d3184d9cee4fa3fd89e79349d7e, type: 2}
+  points: 0
+  qualifiers: 1
+  majors: 0
+  requiredTitles:
+  - {fileID: 11400000, guid: 4aab0bfb512aad641916a75126cad3ac, type: 2}
+  titleType: 1

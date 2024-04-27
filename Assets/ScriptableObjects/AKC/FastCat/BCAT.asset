@@ -18,3 +18,5 @@ MonoBehaviour:
   sport: {fileID: 11400000, guid: b4f13e3fb0e04554fb86cedcc2022c49, type: 2}
   points: 150
   qualifiers: 0
+  requiredTitles: []
+  titleType: 1

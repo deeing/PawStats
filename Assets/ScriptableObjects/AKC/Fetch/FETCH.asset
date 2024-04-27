@@ -14,5 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayName: FETCH
   description: 
-  titles: []
+  titles:
+  - {fileID: 11400000, guid: c8f8312978ddb0a4b90396cd29a5901f, type: 2}
+  - {fileID: 11400000, guid: 90f1d8c40df7fe74589fefabd515459c, type: 2}
+  - {fileID: 11400000, guid: 6be3afeec4b70e647b55f1a627fc9e64, type: 2}
+  - {fileID: 11400000, guid: eace6e1f0c832e648905ba0377fb44fe, type: 2}
   organization: {fileID: 11400000, guid: cd0cc85ca8949cd4d81baeb042e7c234, type: 2}
+  sportClasses: []

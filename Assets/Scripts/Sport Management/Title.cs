@@ -10,5 +10,7 @@ public class Title : SportManagement
     public Sport sport;
     public float points;
     public int qualifiers;
+    public int majors;
     public List<Title> requiredTitles;
+    public TitleType titleType = TitleType.Suffix;
 }

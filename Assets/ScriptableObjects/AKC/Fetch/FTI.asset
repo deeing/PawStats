@@ -20,3 +20,4 @@ MonoBehaviour:
   qualifiers: 2
   requiredTitles:
   - {fileID: 11400000, guid: c8f8312978ddb0a4b90396cd29a5901f, type: 2}
+  titleType: 1

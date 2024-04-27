@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26022e75d4c0f1349be933ba4173cd6c, type: 3}
+  m_Name: CAT
+  m_EditorClassIdentifier: 
+  displayName: CAT
+  description: 
+  titles:
+  - {fileID: 11400000, guid: 4ee23e764ad970c43954f4d49c4726e0, type: 2}
+  - {fileID: 11400000, guid: 881be450b8e5b76408587a913f61806b, type: 2}
+  - {fileID: 11400000, guid: 39df6e39fe9f35c45bd1e5a7e2dee58a, type: 2}
+  organization: {fileID: 11400000, guid: cd0cc85ca8949cd4d81baeb042e7c234, type: 2}
+  sportClasses: []

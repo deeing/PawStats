@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 057c713c5952b944b969bdaa263ea59f, type: 3}
+  m_Name: SWE
+  m_EditorClassIdentifier: 
+  displayName: Scent Work Excellent
+  description: supersedes all scentwork excellent titles
+  abbreviation: SWE
+  sport: {fileID: 11400000, guid: 7b3b087adb812324e88e8ab1deeecec8, type: 2}
+  points: 0
+  qualifiers: 0
+  majors: 0
+  requiredTitles:
+  - {fileID: 11400000, guid: 6418fd9f108efe542b81f3edf8b9f89b, type: 2}
+  - {fileID: 11400000, guid: a09d5977e6f5a8e41bff08ea69d847bc, type: 2}
+  - {fileID: 11400000, guid: 29be9331023207841918cb2515a0cfe9, type: 2}
+  - {fileID: 11400000, guid: 07645f9aec8b59f418c7a102680f8e22, type: 2}
+  titleType: 1

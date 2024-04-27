@@ -19,5 +19,6 @@ MonoBehaviour:
   points: 1000
   qualifiers: 0
   requiredTitles: []
+  titleType: 1
   pointInterval: 500
   qualifierInterval: 0

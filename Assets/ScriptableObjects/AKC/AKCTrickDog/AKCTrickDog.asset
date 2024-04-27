@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26022e75d4c0f1349be933ba4173cd6c, type: 3}
+  m_Name: AKCTrickDog
+  m_EditorClassIdentifier: 
+  displayName: Trick Dog (AKC)
+  description: 
+  titles:
+  - {fileID: 11400000, guid: 99941fc32e9540e4dbbdb1233beede2a, type: 2}
+  - {fileID: 11400000, guid: 0efcfab0deb42cc47aa96528966a5c1f, type: 2}
+  - {fileID: 11400000, guid: 11cd659668758ae4a852b86e387e6f0a, type: 2}
+  - {fileID: 11400000, guid: 4aab0bfb512aad641916a75126cad3ac, type: 2}
+  - {fileID: 11400000, guid: a91213cc69b06fc49936b0d9dba750c5, type: 2}
+  organization: {fileID: 11400000, guid: cd0cc85ca8949cd4d81baeb042e7c234, type: 2}
+  sportClasses: []

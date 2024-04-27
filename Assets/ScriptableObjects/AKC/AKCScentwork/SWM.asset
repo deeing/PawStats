@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 057c713c5952b944b969bdaa263ea59f, type: 3}
+  m_Name: SWM
+  m_EditorClassIdentifier: 
+  displayName: Scent Work Master
+  description: supersedes all scentwork master titles
+  abbreviation: SWM
+  sport: {fileID: 11400000, guid: 7b3b087adb812324e88e8ab1deeecec8, type: 2}
+  points: 0
+  qualifiers: 0
+  majors: 0
+  requiredTitles:
+  - {fileID: 11400000, guid: 19d0eb5fb11f65b4cbcdd83fcc5136e2, type: 2}
+  - {fileID: 11400000, guid: 7d645b2ad6c81c44b8c7510ef14f56ae, type: 2}
+  - {fileID: 11400000, guid: 3a6ff72a752a1ab4e838b744935e2966, type: 2}
+  - {fileID: 11400000, guid: 9fe2fa58bcaa25a45abbbb5da702337f, type: 2}
+  titleType: 1

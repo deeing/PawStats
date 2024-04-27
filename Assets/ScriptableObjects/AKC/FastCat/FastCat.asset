@@ -17,4 +17,6 @@ MonoBehaviour:
   titles:
   - {fileID: 11400000, guid: 571a674daa3a0974682fd175ea3acdf7, type: 2}
   - {fileID: 11400000, guid: 14906a3f94a3b5f4eb17c6a4afeba188, type: 2}
+  - {fileID: 11400000, guid: a90bda1365b492f469b3ef6defa5c05c, type: 2}
   organization: {fileID: 11400000, guid: cd0cc85ca8949cd4d81baeb042e7c234, type: 2}
+  sportClasses: []
