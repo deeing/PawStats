@@ -16,6 +16,8 @@ MonoBehaviour:
   description: supersedes all scentwork advanced titles
   abbreviation: SWA
   sport: {fileID: 11400000, guid: 7b3b087adb812324e88e8ab1deeecec8, type: 2}
+  sportClasses:
+  - {fileID: 11400000, guid: ca70104770ae7ef43bb0301d1ab68b7f, type: 2}
   points: 0
   qualifiers: 0
   majors: 0

@@ -16,6 +16,9 @@ MonoBehaviour:
   description: supersedes all scentwork novice titles
   abbreviation: SWN
   sport: {fileID: 11400000, guid: 7b3b087adb812324e88e8ab1deeecec8, type: 2}
+  sportClasses:
+  - {fileID: 11400000, guid: 095ceaad7961e824d830eac924933f80, type: 2}
+  - {fileID: 11400000, guid: a307d4e1024227247902501223c1f9fb, type: 2}
   points: 0
   qualifiers: 0
   majors: 0

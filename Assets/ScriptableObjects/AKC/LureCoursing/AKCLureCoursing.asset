@@ -22,4 +22,5 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e8fd39e5622dddc46989a16ae80e0af2, type: 2}
   - {fileID: 11400000, guid: 413ac1e91f1eec34882066ea9b86405a, type: 2}
   organization: {fileID: 11400000, guid: cd0cc85ca8949cd4d81baeb042e7c234, type: 2}
-  sportClasses: []
+  sportClasses:
+  - {fileID: 11400000, guid: 56e041343f80a1845a49f614a9737298, type: 2}

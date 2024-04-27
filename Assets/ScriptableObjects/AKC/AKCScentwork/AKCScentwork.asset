@@ -36,4 +36,10 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 114a4276819c20c4abcfa123be2e00c7, type: 2}
   - {fileID: 11400000, guid: 3ef98f583c8d26040885318c9ca28918, type: 2}
   organization: {fileID: 11400000, guid: cd0cc85ca8949cd4d81baeb042e7c234, type: 2}
-  sportClasses: []
+  sportClasses:
+  - {fileID: 11400000, guid: 095ceaad7961e824d830eac924933f80, type: 2}
+  - {fileID: 11400000, guid: a307d4e1024227247902501223c1f9fb, type: 2}
+  - {fileID: 11400000, guid: ca70104770ae7ef43bb0301d1ab68b7f, type: 2}
+  - {fileID: 11400000, guid: 92ce9cbf76f101549af7bf172f536f7e, type: 2}
+  - {fileID: 11400000, guid: 597ed7559d48deb4d811541c15ac466a, type: 2}
+  - {fileID: 11400000, guid: 89eef72516aa52f499e3daf51cc15dfe, type: 2}

@@ -6,5 +6,4 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "SportClass", menuName = "Sport Management/SportClass")]
 public class SportClass : SportManagement
 {
-    public Title title;
 }

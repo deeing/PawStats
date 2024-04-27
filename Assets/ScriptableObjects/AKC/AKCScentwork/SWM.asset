@@ -16,6 +16,8 @@ MonoBehaviour:
   description: supersedes all scentwork master titles
   abbreviation: SWM
   sport: {fileID: 11400000, guid: 7b3b087adb812324e88e8ab1deeecec8, type: 2}
+  sportClasses:
+  - {fileID: 11400000, guid: 597ed7559d48deb4d811541c15ac466a, type: 2}
   points: 0
   qualifiers: 0
   majors: 0

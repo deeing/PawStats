@@ -8,6 +8,8 @@ public class Title : SportManagement
 {
     public string abbreviation;
     public Sport sport;
+    [HideInInspector]
+    public List<SportClass> sportClasses; 
     public float points;
     public int qualifiers;
     public int majors;

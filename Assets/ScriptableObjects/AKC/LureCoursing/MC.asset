@@ -16,6 +16,7 @@ MonoBehaviour:
   description: 
   abbreviation: MC
   sport: {fileID: 11400000, guid: c9db4c4b3acaaa54085bb9ad5c89ac36, type: 2}
+  sportClass: {fileID: 11400000, guid: 56e041343f80a1845a49f614a9737298, type: 2}
   points: 0
   qualifiers: 29
   majors: 0
