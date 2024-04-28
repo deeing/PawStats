@@ -50,10 +50,15 @@ public static class SaveData
         AddUser(newUserData, true);
     }
 
-    public static void AddPet(string username, PetProfile newPet)
+    public static void AddPet(string username, Pet newPet)
     {
         User user = GetUser(username);
         user.pets.Add(newPet);
         UpdateUser(user);
+    }
+
+    public static List<Pet> GetPets(string username)
+    {
+        return GetUser(username).pets;
     }
 }

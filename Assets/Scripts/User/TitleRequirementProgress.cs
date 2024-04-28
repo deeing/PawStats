@@ -7,7 +7,7 @@ using UnityEngine;
 public class TitleRequirementProgress
 {
     public TitleProgress myTitleProgress;
-    public PetProfile pet;
+    public Pet pet;
     public SportEvent sportEventEarned;
     public float myPoints;
     public int myQualifiers;

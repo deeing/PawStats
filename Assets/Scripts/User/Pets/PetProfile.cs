@@ -1,21 +1,17 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
+using UnityEngine.Serialization;
 
-[System.Serializable]
-public class PetProfile
+public class PetProfile : MonoBehaviour
 {
-    public string callName;
-    public string registrationName;
-    public string description;
-    public string gender;
-    public bool isNeutered;
-    public int age;
-    public DateTime birthday;
-    public float heightInInches;
-    public List<Title> titlesEarned;
-    public List<Organization> registeredOrganizations;
-    public List<RegistrationNumber> registrationNumbers;
-    public List<Goal> goals;
+    [SerializeField] 
+    private TMP_Text callName;
+
+
+    public void Init(string petName)
+    {
+        callName.text = petName;
+    }
 }

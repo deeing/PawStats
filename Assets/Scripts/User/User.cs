@@ -8,6 +8,6 @@ public class User
 {
     public string name = "Test";
     public string username = "test";
-    public List<PetProfile> pets = new();
+    public List<Pet> pets = new();
     public List<SportEvent> events = new();
 }

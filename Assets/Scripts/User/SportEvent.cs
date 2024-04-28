@@ -9,6 +9,6 @@ public class SportEvent
     public string description;
     public DateTime date;
     public Sport sport;
-    public List<PetProfile> pets;
+    public List<Pet> pets;
     public List<TitleRequirementProgress> pointsEarnedAtEvent;
 }

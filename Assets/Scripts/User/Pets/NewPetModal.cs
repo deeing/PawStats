@@ -13,7 +13,7 @@ public class NewPetModal : MonoBehaviour
     
     public void BTN_AddNewPet()
     {
-        PetProfile newPet = new()
+        Pet newPet = new()
         {
             callName = petName.text
         };
